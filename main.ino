@@ -48,7 +48,7 @@ const char index_html[] PROGMEM = R"rawliteral(
         <div class="container-fluid">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" href="#">Lightning Efects</a>
+                    <a class="nav-link active" href="#">Lighting Efects</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/schedules.html">Schedules</a>
